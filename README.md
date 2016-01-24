@@ -1,6 +1,11 @@
+![Image of Yaktocat](sources/screenshots/popup_en.png)
 # MediaWiki Page adder
 
-You can easy add pages to your wiki from any page.
+You can easily add pages to your wiki from any page.
+
+# Languages support
+* English
+* Russian
 
 # Info
 
@@ -11,4 +16,4 @@ You can easy add pages to your wiki from any page.
 # Install
 
 * You can install it from dev mode in chrome
-* Or from [Chrome Store]()
+* Or from [Chrome Store](https://chrome.google.com/webstore/detail/gknagelhdlggklkeifcgeabapphikehg/)
