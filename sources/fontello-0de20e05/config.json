@@ -1,0 +1,22 @@
+{
+  "name": "icons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e99461abfef3923546da8d745372c995",
+      "css": "options",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "lang",
+      "code": 59393,
+      "src": "fontawesome"
+    }
+  ]
+}

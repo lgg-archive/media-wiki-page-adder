@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Настройки</title>
+    <link rel="stylesheet" href="options.css">
+    <script src="../langs.js"></script>
+
+    <link rel="stylesheet" href="../material/material.min.css">
+    <script src="../material/material.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <h1 id="opt_title">Настройки:</h1>
+
+        <div class="block first">
+            <div id="url-wrap" class="mdl-textfield mdl-js-textfield">
+                <input class="mdl-textfield__input" type="text" id="url">
+                <label class="mdl-textfield__label" for="url">wiki.example.com</label>
+            </div>
+        </div>
+
+        <div class="block">
+            <label id="ssl-wrap" class="mdl-switch mdl-js-switch mdl-js-ripple-effect" for="ssl">
+                <input type="checkbox" id="ssl" class="mdl-switch__input">
+                <span class="mdl-switch__label"><span id="opt_ssl">Использовать</span> https://</span>
+            </label>
+        </div>
+
+        <div class="block last">
+            <button id="save" class="mdl-color--green mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+
+            </button>
+            <div id="status" class="status"></div>
+        </div>
+
+
+    </div>
+
+    <script src="options.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "app_name":{
+    "message": "Удобное создание новых страниц в MediaWiki",
+    "description": "App name"
+  },
+  "app_desc": {
+    "message": "Данное расширение позволяет с удобством добавлять новые страницы в MediaWiki. ВАЖНО: Вы должны быть авторизованы в MediaWiki!",
+    "description": "App description"
+  },
+  "popup_title": {
+    "message": "MWPA",
+    "description": "Popup page title"
+  },
+  "lang":{
+    "message": "ru",
+    "description": "Define lang for <html>"
+  },
+  "popup_header":{
+    "message": "Введите название статьи:",
+    "description": "Popup header title"
+  },
+  "popup_input":{
+    "message": "Название",
+    "description": "Placeholder for popup input"
+  },
+  "popup_add":{
+    "message": "GO!",
+    "description": "Popup add button label"
+  },
+  "opt_title":{
+    "message": "Настройки",
+    "description": "Title of options page"
+  },
+  "opt_ssl":{
+    "message": "Использовать",
+    "description": "Asks user about using ssl"
+  },
+  "opt_save":{
+    "message": "Сохранить",
+    "description": "Options page button label"
+  },
+  "opt_saved":{
+    "message": "Сохранили",
+    "description": "Message when saved options"
+  }
+}

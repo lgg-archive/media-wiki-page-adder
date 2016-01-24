@@ -1,0 +1,46 @@
+{
+  "app_name":{
+    "message": "MediaWiki Page adder",
+    "description": "App name"
+  },
+  "app_desc": {
+    "message": "Simply add pages to your MediaWiki. IMPORTANT: you should be authored on your wiki!",
+    "description": "App description"
+  },
+  "popup_title": {
+    "message": "MWPA",
+    "description": "Popup page title"
+  },
+  "lang":{
+    "message": "en",
+    "description": "Define lang for <html>"
+  },
+  "popup_header":{
+    "message": "Input page title:",
+    "description": "Popup header title"
+  },
+  "popup_input":{
+    "message": "Title",
+    "description": "Placeholder for popup input"
+  },
+  "popup_add":{
+    "message": "ADD",
+    "description": "Popup add button label"
+  },
+  "opt_title":{
+    "message": "Options",
+    "description": "Title of options page"
+  },
+  "opt_ssl":{
+    "message": "Use",
+    "description": "Asks user about using ssl"
+  },
+  "opt_save":{
+    "message": "Save",
+    "description": "Options page button label"
+  },
+  "opt_saved":{
+    "message": "Saved",
+    "description": "Message when saved options"
+  }
+}
