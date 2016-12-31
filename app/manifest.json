@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "__MSG_app_name__",
+  "name": "MediaWiki Page adder",
   "short_name": "MWPA",
-  "description": "__MSG_app_desc__",
+  "description": "You can easily add pages to your wiki from any page.",
   "author": "littleguga",
   "homepage_url": "http://littleguga.ru/mwpa",
   "version": "1.0.2",
